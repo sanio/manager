@@ -1,0 +1,2 @@
+# manager
+flats_manager
